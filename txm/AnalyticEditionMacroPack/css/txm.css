@@ -1,0 +1,83 @@
+/*Basic  Stylesheet for TXM editions */
+
+@import url("tei.css");
+
+
+.txmeditionpage{
+ position:relative;
+   color: #000000;
+   background-color: #FFFFFF;
+   margin-left: 10%;
+   margin-right: 10%;
+   padding:0;
+   font-family: Verdana, Tahoma, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.editionpage {
+    display:block;
+    text-align:center;
+    color:gray;
+}
+.editionpageverse {
+    position:relative;
+    left:-5%;
+    page-break-before:always;
+    color:gray;
+    display:block;
+    text-align:center;
+}
+
+.footnote {
+    font-size:75%;
+}
+
+.head {
+   color:#4B0082; /*indigo*/
+   font-weight:bold;
+}
+
+.noteinline {
+     color:gray;
+     font-size:90%;
+     font-style:italic;
+     font-family:Times, serif;
+ }
+
+.pagenumber {
+    color:gray;
+    font-size:80%
+}
+
+.sp > p, .sp > .l {
+    display:block;
+    margin-left:20px;
+}
+
+.speaker {
+    display:block;
+    font-weight:bold;
+    color:gray;
+}
+.verseline {
+	position:relative;
+
+}
+.verselinenumber {
+	position:absolute;
+	left:-60pt;
+	width:40pt;
+	font-size:80%;
+	text-align:right;
+	color:gray;
+}
+
+/*.verseline:before {
+position:absolute;
+left:-50px;
+top:-14px;
+width:25px;
+text-align:right;
+color:gray;
+content:attr(title);
+}
+*/

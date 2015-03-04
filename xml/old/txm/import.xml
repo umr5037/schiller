@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import author="mingarao"
+        date="18-11-13"
+        desc=""
+        name="schillertxm"
+        rootDir="/home/mingarao/Documents/Dropbox/Projets/Schiller2014/xml/txm"
+        script="xmlLoader.groovy"
+        version="0.7">
+   <linkGrp type="align"/>
+   <corpora>
+      <corpus annotate="true"
+              cqpid="SCHILLERTXM1384791065068"
+              desc=""
+              encoding="UTF-8"
+              font=""
+              lang="de"
+              name="SCHILLERTXM">
+         <tokenizer onlyThoseTests="false"/>
+         <xslt xsl=""/>
+         <pattributes/>
+         <sattributes/>
+         <biblios/>
+         <uis/>
+         <editions default="default">
+       	    <edition mode="groovy" name="default" script="pager.groovy"/>
+         </editions>
+         <texts/>
+         <queries/>
+         <preBuild/>
+      </corpus>
+   </corpora>
+</import>

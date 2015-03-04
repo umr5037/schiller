@@ -1,0 +1,12 @@
+.hi {
+    background-color:yellow;
+}
+.supplied {
+    color:blue;
+}
+.supplied:before { 
+    content:"[";
+}
+.supplied:after {    
+    content:"]";
+}

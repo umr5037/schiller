@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import author="mingarao"
+        date="17-12-14"
+        desc="Nouvel import après contrôle Alexei (lettres manquantes, pb pagination...)"
+        name="schiller20150105"
+        rootDir="/home/mingarao/Bureau/Dropbox Projets/Schiller2014/xml/txm-cab"
+        script="xmlLoader.groovy"
+        version="0.7">
+   <linkGrp type="align"/>
+   <corpora>
+      <corpus annotate="false"
+              cqpid="SCHILLER201501051420477505179"
+              desc="Nouvel import après contrôle Alexei (lettres manquantes, pb pagination...)"
+              encoding="UTF-8"
+              font=""
+              lang="fr"
+              name="SCHILLER20150105">
+         <tokenizer onlyThoseTests="false"/>
+         <xslt xsl="/home/mingarao/Documents/Dropbox/Projets/Schiller2014/xsl/txm-filter-teip5Schiller-xmlw.xsl"/>
+         <pattributes/>
+         <sattributes/>
+         <biblios/>
+         <uis/>
+         <editions default="default">
+       	    <edition mode="groovy" name="default" script="pager.groovy"/>
+         </editions>
+         <texts/>
+         <queries/>
+         <preBuild/>
+      </corpus>
+   </corpora>
+</import>

@@ -1,0 +1,26 @@
+Deux fichiers XML :
+aesthetische.xml : Lettres sur l'éducation esthétique
+augustenburg.xml : Lettres d'Augustenburg
+
+metadata.csv : id, title_short, title_long
+
+fichiers XML :
+1ère ligne sur l'encodage
+<div type="Brief" id="" n="1"> [pour aesthetische]
+<div type="Brief" id="" date_short="17930209" date_long="9 Februar 1793"> [pour augustenburg]
+<head></head>? [ou/et éventuellement trouver les balises TEI pour coder les formules épistolaires initiales et conclusives, sinon p n=0 et p n=99 ?]
+<p n="1">
+<pb type="reclam" n="10"/>
+<emph rend="italic"></emph> [uniquement pour les mises en valeur de l'auteur]
+<note>[]</note> [uniquement les notes auteur ; les crochets seraient pour un import simple XML/w]
+</p>
+
+Questions pour Anne :
+- est-ce intéressant de mettre le lieu en métadonnée ? (pour situer ? pour contraster ?)
+- définition des id des lettres
+
+Questions pour l'import TXM :
+- faire un réimport à partir du XML-TXM pour distribuer l'information sur les pages au niveau du mot (pour pouvoir l'afficher dans les références)
+- questions des notes : 
+affichage : mettre des crochets pour les distinguer dans l'édition du fil du texte ? ou bien une autre police de caractères ?
+interrogation : faire un import avec les notes et un import sans l'indexation des notes (pour ne pas avoir d'interruption du fil du texte) ?

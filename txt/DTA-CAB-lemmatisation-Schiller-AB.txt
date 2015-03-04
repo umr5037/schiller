@@ -1,0 +1,8924 @@
+%% $s:lang=de
+Schiller
+	+[exlex] Schiller
+	+[pnd] 118607626
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Schiller
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Schiller
+	+[moot/tag] NE
+	+[moot/lemma] Schiller
+an
+	+[exlex] an
+	+[errid] 49415
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=an
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] an
+	+[moot/tag] APPR
+	+[moot/lemma] an
+Herzog
+	+[exlex] Herzog
+	+[pnd] 118503472
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Herzog
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Herzog
+	+[moot/tag] NE
+	+[moot/lemma] Herzog
+v.
+	+[exlex] v.
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=v.
+	+[morph/safe] 0
+	+[moot/word] v.
+	+[moot/tag] APPRART
+	+[moot/lemma] v.
+Augustenburg
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Augustenburg
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Augustenburg
+	+[moot/tag] NN
+	+[moot/lemma] Augustenburg
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+G.
+	+[exlex] G.
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=G.
+	+[morph/safe] 0
+	+[moot/word] G.
+	+[moot/tag] NN
+	+[moot/lemma] G.
+v.
+	+[exlex] v.
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=v.
+	+[morph/safe] 0
+	+[moot/word] v.
+	+[moot/tag] APPR
+	+[moot/lemma] v.
+Schimmelmann
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Schimmelmann
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Schimmelmann
+	+[moot/tag] NE
+	+[moot/lemma] Schimmelmann
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+19.
+	+[exlex] 19.
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=19.
+	+[morph/safe] 1
+	+[moot/word] 19.
+	+[moot/tag] ADJA
+	+[moot/lemma] 19.
+Dezember
+	+[exlex] Dezember
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Dezember
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Dezember
+	+[moot/tag] NN
+	+[moot/lemma] Dezember
+1791
+	+[exlex] 1791
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=1791
+	+[morph/safe] 1
+	+[moot/word] 1791
+	+[moot/tag] CARD
+	+[moot/lemma] 1791
+Jena
+	+[exlex] Jena
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=Jena
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Jena
+	+[moot/tag] NE
+	+[moot/lemma] Jena
+19.
+	+[exlex] 19.
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=19.
+	+[morph/safe] 1
+	+[moot/word] 19.
+	+[moot/tag] ADJA
+	+[moot/lemma] 19.
+Dec.
+	+[xlit] l1=1 lx=1 l1s=Dec.
+	+[morph/safe] 0
+	+[moot/word] Dec.
+	+[moot/tag] NN
+	+[moot/lemma] Dec.
+[
+	+[exlex] [
+	+[errid] ec
+	+[lang] xy
+	+[xlit] l1=1 lx=1 l1s=[
+	+[morph/safe] 1
+	+[moot/word] [
+	+[moot/tag] $(
+	+[moot/lemma] [
+Montag
+	+[exlex] Montag
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Montag
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Montag
+	+[moot/tag] NN
+	+[moot/lemma] Montag
+]
+	+[exlex] ]
+	+[errid] ec
+	+[lang] xy
+	+[xlit] l1=1 lx=1 l1s=]
+	+[morph/safe] 1
+	+[moot/word] ]
+	+[moot/tag] $(
+	+[moot/lemma] ]
+91.
+	+[exlex] 91.
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=91.
+	+[morph/safe] 1
+	+[moot/word] 91.
+	+[moot/tag] ADJA
+	+[moot/lemma] 91.
+Erlauben
+	+[exlex] Erlauben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Erlauben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Erlauben
+	+[moot/tag] NN
+	+[moot/lemma] Erlauben
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+Verehrungswürdigste
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Verehrungswürdigste
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Verehrungswürdigste
+	+[moot/tag] ADJA
+	+[moot/lemma] verehrungswürdig
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+daß
+	+[exlex] daß
+	+[errid] 197
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=daß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] daß
+	+[moot/tag] KOUS
+	+[moot/lemma] daß
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+zwey
+	+[exlex] zwei
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=zwey
+	+[morph/safe] 0
+	+[moot/word] zwei
+	+[moot/tag] CARD
+	+[moot/lemma] zwei
+edle
+	+[exlex] edle
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=edle
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] edle
+	+[moot/tag] ADJA
+	+[moot/lemma] edel
+Nahmen
+	+[exlex] Namen
+	+[errid] 19
+	+[xlit] l1=1 lx=1 l1s=Nahmen
+	+[hasmorph] 1
+	+[morph/safe] 0
+	+[moot/word] Namen
+	+[moot/tag] NN
+	+[moot/lemma] Namen
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+Einen
+	+[exlex] Einen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Einen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Einen
+	+[moot/tag] ART
+	+[moot/lemma] eine
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+zwar
+	+[exlex] zwar
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zwar
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zwar
+	+[moot/tag] ADV
+	+[moot/lemma] zwar
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+Denjenigen
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Denjenigen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Denjenigen
+	+[moot/tag] PDS
+	+[moot/lemma] diejenige
+zusammenfasse
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zusammenfasse
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zusammenfasse
+	+[moot/tag] VVFIN
+	+[moot/lemma] zusammenfassen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+unter
+	+[exlex] unter
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=unter
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] unter
+	+[moot/tag] APPR
+	+[moot/lemma] unter
+welchem
+	+[exlex] welchem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=welchem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] welchem
+	+[moot/tag] PRELS
+	+[moot/lemma] welche
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+Sich
+	+[exlex] Sich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sich
+	+[moot/tag] PRF
+	+[moot/lemma] sich
+selbst
+	+[exlex] selbst
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=selbst
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] selbst
+	+[moot/tag] ADV
+	+[moot/lemma] selbst
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+Rücksicht
+	+[exlex] Rücksicht
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Rücksicht
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Rücksicht
+	+[moot/tag] NN
+	+[moot/lemma] Rücksicht
+meiner
+	+[exlex] meiner
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meiner
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meiner
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+vereinigt
+	+[exlex] vereinigt
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=vereinigt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] vereinigt
+	+[moot/tag] VVPP
+	+[moot/lemma] vereinigen
+haben
+	+[exlex] haben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=haben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] haben
+	+[moot/tag] VAINF
+	+[moot/lemma] haben
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Der
+	+[exlex] Der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Der
+	+[moot/tag] ART
+	+[moot/lemma] d
+Anlaß
+	+[exlex] Anlaß
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Anlaß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Anlaß
+	+[moot/tag] NN
+	+[moot/lemma] Anlaß
+bey
+	+[exlex] bei
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=bey
+	+[morph/safe] 0
+	+[moot/word] bei
+	+[moot/tag] APPR
+	+[moot/lemma] bei
+welchem
+	+[exlex] welchem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=welchem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] welchem
+	+[moot/tag] PRELS
+	+[moot/lemma] welche
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+diese
+	+[exlex] diese
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=diese
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] diese
+	+[moot/tag] PDAT
+	+[moot/lemma] diese
+Freiheit
+	+[exlex] Freiheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Freiheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Freiheit
+	+[moot/tag] NN
+	+[moot/lemma] Freiheit
+nehme
+	+[exlex] nehme
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=nehme
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] nehme
+	+[moot/tag] VVFIN
+	+[moot/lemma] nehmen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+ist
+	+[exlex] ist
+	+[errid] 25429
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ist
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ist
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+an
+	+[exlex] an
+	+[errid] 49415
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=an
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] an
+	+[moot/tag] APPR
+	+[moot/lemma] an
+sich
+	+[exlex] sich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sich
+	+[moot/tag] PRF
+	+[moot/lemma] sich
+selbst
+	+[exlex] selbst
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=selbst
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] selbst
+	+[moot/tag] ADV
+	+[moot/lemma] selbst
+schon
+	+[exlex] schon
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=schon
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] schon
+	+[moot/tag] ADV
+	+[moot/lemma] schon
+eine
+	+[exlex] eine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=eine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] eine
+	+[moot/tag] ART
+	+[moot/lemma] eine
+so
+	+[exlex] so
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=so
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] so
+	+[moot/tag] ADV
+	+[moot/lemma] so
+überraschende
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=überraschende
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] überraschende
+	+[moot/tag] ADJA
+	+[moot/lemma] überraschend
+Ausnahme
+	+[exlex] Ausnahme
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ausnahme
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ausnahme
+	+[moot/tag] NN
+	+[moot/lemma] Ausnahme
+von
+	+[exlex] von
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=von
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] von
+	+[moot/tag] APPR
+	+[moot/lemma] von
+allem
+	+[exlex] allem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=allem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] allem
+	+[moot/tag] PIS
+	+[moot/lemma] alle
+Gewöhnlichen
+	+[exlex] Gewöhnlichen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Gewöhnlichen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Gewöhnlichen
+	+[moot/tag] NN
+	+[moot/lemma] Gewöhnliche
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+daß
+	+[exlex] daß
+	+[errid] 197
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=daß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] daß
+	+[moot/tag] KOUS
+	+[moot/lemma] daß
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+das
+	+[exlex] das
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=das
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] das
+	+[moot/tag] ART
+	+[moot/lemma] d
+reine
+	+[exlex] reine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=reine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] reine
+	+[moot/tag] ADJA
+	+[moot/lemma] rein
+idealische
+	+[exlex] idealische
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=idealische
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] idealische
+	+[moot/tag] ADJA
+	+[moot/lemma] idealisch
+Verhältniß
+	+[exlex] Verhältnis
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=Verhältniß
+	+[morph/safe] 0
+	+[moot/word] Verhältnis
+	+[moot/tag] NN
+	+[moot/lemma] Verhältnis
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+worein
+	+[exlex] worein
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=worein
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] worein
+	+[moot/tag] PWAV
+	+[moot/lemma] worein
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] APPR
+	+[moot/lemma] zu
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+getreten
+	+[exlex] getreten
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=getreten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] getreten
+	+[moot/tag] VVPP
+	+[moot/lemma] treten
+sind
+	+[exlex] sind
+	+[errid] 54741
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sind
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sind
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+durch
+	+[exlex] durch
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=durch
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] durch
+	+[moot/tag] APPR
+	+[moot/lemma] durch
+jede
+	+[exlex] jede
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=jede
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] jede
+	+[moot/tag] PIAT
+	+[moot/lemma] jede
+Rücksicht
+	+[exlex] Rücksicht
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Rücksicht
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Rücksicht
+	+[moot/tag] NN
+	+[moot/lemma] Rücksicht
+auf
+	+[exlex] auf
+	+[errid] 26401
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=auf
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] auf
+	+[moot/tag] APPR
+	+[moot/lemma] auf
+zufällige
+	+[exlex] zufällige
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zufällige
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zufällige
+	+[moot/tag] ADJA
+	+[moot/lemma] zufällig
+Unterschiede
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Unterschiede
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Unterschiede
+	+[moot/tag] NN
+	+[moot/lemma] Unterschied
+herabzuwürdigen
+	+[exlex] herabzuwürdigen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=herabzuwürdigen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] herabzuwürdigen
+	+[moot/tag] VVIZU
+	+[moot/lemma] herabwürdigen
+fürchten
+	+[exlex] fürchten
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=fürchten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] fürchten
+	+[moot/tag] VVINF
+	+[moot/lemma] fürchten
+müßte
+	+[exlex] müßte
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=müßte
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] müßte
+	+[moot/tag] VMFIN
+	+[moot/lemma] müssen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Zu
+	+[exlex] Zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Zu
+	+[moot/tag] APPR
+	+[moot/lemma] zu
+einer
+	+[exlex] einer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=einer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] einer
+	+[moot/tag] ART
+	+[moot/lemma] eine
+Zeit
+	+[exlex] Zeit
+	+[errid] 23806
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Zeit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Zeit
+	+[moot/tag] NN
+	+[moot/lemma] Zeit
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wo
+	+[exlex] wo
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wo
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wo
+	+[moot/tag] PWAV
+	+[moot/lemma] wo
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Ueberreste
+	+[xlit] l1=1 lx=1 l1s=Ueberreste
+	+[morph/safe] 0
+	+[moot/word] Überreste
+	+[moot/tag] NN
+	+[moot/lemma] Überrest
+einer
+	+[exlex] einer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=einer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] einer
+	+[moot/tag] ART
+	+[moot/lemma] eine
+angreifenden
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=angreifenden
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] angreifenden
+	+[moot/tag] ADJA
+	+[moot/lemma] angreifend
+Krankheit
+	+[exlex] Krankheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Krankheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Krankheit
+	+[moot/tag] NN
+	+[moot/lemma] Krankheit
+meine
+	+[exlex] meine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meine
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+Seele
+	+[exlex] Seele
+	+[errid] 2762
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Seele
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Seele
+	+[moot/tag] NN
+	+[moot/lemma] Seele
+umwölkten
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=umwölkten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] umwölkten
+	+[moot/tag] VVFIN
+	+[moot/lemma] umwölken
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PRF
+	+[moot/lemma] mich
+mit
+	+[exlex] mit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mit
+	+[moot/tag] APPR
+	+[moot/lemma] mit
+einer
+	+[exlex] einer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=einer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] einer
+	+[moot/tag] ART
+	+[moot/lemma] eine
+finstern
+	+[exlex] finsteren
+	+[errid] 2865
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=finstern
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] finsteren
+	+[moot/tag] ADJA
+	+[moot/lemma] finster
+traurigen
+	+[exlex] traurigen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=traurigen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] traurigen
+	+[moot/tag] ADJA
+	+[moot/lemma] traurig
+Zukunft
+	+[exlex] Zukunft
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Zukunft
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Zukunft
+	+[moot/tag] NN
+	+[moot/lemma] Zukunft
+schreckten
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=schreckten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] schreckten
+	+[moot/tag] VVFIN
+	+[moot/lemma] schrecken
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+reichen
+	+[exlex] reichen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=reichen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] reichen
+	+[moot/tag] VVFIN
+	+[moot/lemma] reichen
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wie
+	+[exlex] wie
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wie
+	+[moot/tag] PWAV
+	+[moot/lemma] wie
+zwey
+	+[exlex] zwei
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=zwey
+	+[morph/safe] 0
+	+[moot/word] zwei
+	+[moot/tag] CARD
+	+[moot/lemma] zwei
+schützende
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=schützende
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] schützende
+	+[moot/tag] ADJA
+	+[moot/lemma] schützend
+Genien
+	+[exlex] Genien
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Genien
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Genien
+	+[moot/tag] NN
+	+[moot/lemma] Genie
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Hand
+	+[exlex] Hand
+	+[errid] 2213
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Hand
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Hand
+	+[moot/tag] NN
+	+[moot/lemma] Hand
+aus
+	+[exlex] aus
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=aus
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] aus
+	+[moot/tag] APPR
+	+[moot/lemma] aus
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+Wolken
+	+[exlex] Wolken
+	+[errid] 3214
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Wolken
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Wolken
+	+[moot/tag] NN
+	+[moot/lemma] Wolke
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Das
+	+[exlex] Das
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Das
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Das
+	+[moot/tag] ART
+	+[moot/lemma] d
+großmüthige
+	+[exlex] großmütige
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=großmüthige
+	+[morph/safe] 0
+	+[moot/word] großmütige
+	+[moot/tag] ADJA
+	+[moot/lemma] großmütig
+Anerbieten
+	+[exlex] Anerbieten
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Anerbieten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Anerbieten
+	+[moot/tag] NN
+	+[moot/lemma] Anerbieten
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+das
+	+[exlex] das
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=das
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] das
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+thun
+	+[exlex] tun
+	+[errid] 57803
+	+[xlit] l1=1 lx=1 l1s=thun
+	+[morph/safe] 0
+	+[moot/word] tun
+	+[moot/tag] VVINF
+	+[moot/lemma] tun
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+erfüllt
+	+[exlex] erfüllt
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=erfüllt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] erfüllt
+	+[moot/tag] VVFIN
+	+[moot/lemma] erfüllen
+ja
+	+[exlex] ja
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ja
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ja
+	+[moot/tag] ADV
+	+[moot/lemma] ja
+übertrifft
+	+[exlex] übertrifft
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=übertrifft
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] übertrifft
+	+[moot/tag] VVFIN
+	+[moot/lemma] übertreffen
+meine
+	+[exlex] meine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meine
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+kühnsten
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=kühnsten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] kühnsten
+	+[moot/tag] ADJA
+	+[moot/lemma] kühn
+Wünsche
+	+[exlex] Wünsche
+	+[errid] 68635
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Wünsche
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Wünsche
+	+[moot/tag] NN
+	+[moot/lemma] Wunsch
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Die
+	+[exlex] Die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Art
+	+[exlex] Art
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Art
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Art
+	+[moot/tag] NN
+	+[moot/lemma] Art
+mit
+	+[exlex] mit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mit
+	+[moot/tag] APPR
+	+[moot/lemma] mit
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+es
+	+[exlex] es
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=es
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] es
+	+[moot/tag] PPER
+	+[moot/lemma] es
+thun
+	+[exlex] tun
+	+[errid] 57803
+	+[xlit] l1=1 lx=1 l1s=thun
+	+[morph/safe] 0
+	+[moot/word] tun
+	+[moot/tag] VVINF
+	+[moot/lemma] tun
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+befreyt
+	+[exlex] befreit
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=befreyt
+	+[morph/safe] 0
+	+[moot/word] befreit
+	+[moot/tag] VVFIN
+	+[moot/lemma] befreien
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+von
+	+[exlex] von
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=von
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] von
+	+[moot/tag] APPR
+	+[moot/lemma] von
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+Furcht
+	+[exlex] Furcht
+	+[errid] 71178
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Furcht
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Furcht
+	+[moot/tag] NN
+	+[moot/lemma] Furcht
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+Ihrer
+	+[exlex] Ihrer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihrer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihrer
+	+[moot/tag] PPOSAT
+	+[moot/lemma] ihr
+Güte
+	+[exlex] Güte
+	+[errid] 6120
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Güte
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Güte
+	+[moot/tag] NN
+	+[moot/lemma] Güte
+unwerth
+	+[exlex] unwert
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=unwerth
+	+[morph/safe] 0
+	+[moot/word] unwert
+	+[moot/tag] ADJD
+	+[moot/lemma] unwert
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+zeigen
+	+[exlex] zeigen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zeigen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zeigen
+	+[moot/tag] VVINF
+	+[moot/lemma] zeigen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+indem
+	+[exlex] indem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=indem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] indem
+	+[moot/tag] KOUS
+	+[moot/lemma] indem
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+diesen
+	+[exlex] diesen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=diesen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] diesen
+	+[moot/tag] PDAT
+	+[moot/lemma] diese
+Beweis
+	+[exlex] Beweis
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Beweis
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Beweis
+	+[moot/tag] NN
+	+[moot/lemma] Beweis
+davon
+	+[exlex] davon
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=davon
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] davon
+	+[moot/tag] PAV
+	+[moot/lemma] davon
+annehme
+	+[exlex] annehme
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=annehme
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] annehme
+	+[moot/tag] VVFIN
+	+[moot/lemma] annehmen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Erröthen
+	+[exlex] Erröten
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=Erröthen
+	+[morph/safe] 0
+	+[moot/word] Erröten
+	+[moot/tag] NN
+	+[moot/lemma] Erröten
+müßte
+	+[exlex] müßte
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=müßte
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] müßte
+	+[moot/tag] VMFIN
+	+[moot/lemma] müssen
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wenn
+	+[exlex] wenn
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wenn
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wenn
+	+[moot/tag] KOUS
+	+[moot/lemma] wenn
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+bei
+	+[exlex] bei
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=bei
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] bei
+	+[moot/tag] APPR
+	+[moot/lemma] bei
+einem
+	+[exlex] einem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=einem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] einem
+	+[moot/tag] ART
+	+[moot/lemma] eine
+solchen
+	+[exlex] solchen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=solchen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] solchen
+	+[moot/tag] PIAT
+	+[moot/lemma] solch
+Anerbieten
+	+[exlex] Anerbieten
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Anerbieten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Anerbieten
+	+[moot/tag] NN
+	+[moot/lemma] Anerbieten
+an
+	+[exlex] an
+	+[errid] 49415
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=an
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] an
+	+[moot/tag] APPR
+	+[moot/lemma] an
+etwas
+	+[exlex] etwas
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=etwas
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] etwas
+	+[moot/tag] PIS
+	+[moot/lemma] etwas
+anders
+	+[exlex] anders
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=anders
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] anders
+	+[moot/tag] ADV
+	+[moot/lemma] anders
+denken
+	+[exlex] denken
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=denken
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] denken
+	+[moot/tag] VVINF
+	+[moot/lemma] denken
+könnte
+	+[exlex] könnte
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=könnte
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] könnte
+	+[moot/tag] VMFIN
+	+[moot/lemma] können
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+als
+	+[exlex] als
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=als
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] als
+	+[moot/tag] KOUS
+	+[moot/lemma] als
+an
+	+[exlex] an
+	+[errid] 49415
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=an
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] an
+	+[moot/tag] APPR
+	+[moot/lemma] an
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+schöne
+	+[exlex] schöne
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=schöne
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] schöne
+	+[moot/tag] ADJA
+	+[moot/lemma] schön
+Humanität
+	+[exlex] Humanität
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Humanität
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Humanität
+	+[moot/tag] NN
+	+[moot/lemma] Humanität
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+aus
+	+[exlex] aus
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=aus
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] aus
+	+[moot/tag] APPR
+	+[moot/lemma] aus
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+es
+	+[exlex] es
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=es
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] es
+	+[moot/tag] PPER
+	+[moot/lemma] es
+entspringt
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=entspringt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] entspringt
+	+[moot/tag] VVFIN
+	+[moot/lemma] entspringen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+an
+	+[exlex] an
+	+[errid] 49415
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=an
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] an
+	+[moot/tag] APPR
+	+[moot/lemma] an
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+moralische
+	+[exlex] moralische
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=moralische
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] moralische
+	+[moot/tag] ADJA
+	+[moot/lemma] moralisch
+Absicht
+	+[exlex] Absicht
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Absicht
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Absicht
+	+[moot/tag] NN
+	+[moot/lemma] Absicht
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] APPR
+	+[moot/lemma] zu
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+es
+	+[exlex] es
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=es
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] es
+	+[moot/tag] PPER
+	+[moot/lemma] es
+dienen
+	+[exlex] dienen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=dienen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] dienen
+	+[moot/tag] VVINF
+	+[moot/lemma] dienen
+soll
+	+[exlex] soll
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=soll
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] soll
+	+[moot/tag] VMFIN
+	+[moot/lemma] sollen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Rein
+	+[exlex] Rein
+	+[pnd] 118599313
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Rein
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Rein
+	+[moot/tag] ADV
+	+[moot/lemma] rein
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+edel
+	+[exlex] edel
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=edel
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] edel
+	+[moot/tag] ADJD
+	+[moot/lemma] edel
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wie
+	+[exlex] wie
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wie
+	+[moot/tag] PWAV
+	+[moot/lemma] wie
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+geben
+	+[exlex] geben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=geben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] geben
+	+[moot/tag] VVINF
+	+[moot/lemma] geben
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+glaube
+	+[exlex] glaube
+	+[errid] 25730
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=glaube
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] glaube
+	+[moot/tag] VVFIN
+	+[moot/lemma] glauben
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+empfangen
+	+[exlex] empfangen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=empfangen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] empfangen
+	+[moot/tag] VVINF
+	+[moot/lemma] empfangen
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+können
+	+[exlex] können
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=können
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] können
+	+[moot/tag] VMINF
+	+[moot/lemma] können
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Ihr
+	+[exlex] Ihr
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihr
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihr
+	+[moot/tag] PPOSAT
+	+[moot/lemma] ihr
+Zweck
+	+[exlex] Zweck
+	+[errid] 71739
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Zweck
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Zweck
+	+[moot/tag] NN
+	+[moot/lemma] Zweck
+dabey
+	+[exlex] dabei
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=dabey
+	+[morph/safe] 0
+	+[moot/word] dabei
+	+[moot/tag] PAV
+	+[moot/lemma] dabei
+ist
+	+[exlex] ist
+	+[errid] 25429
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ist
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ist
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+das
+	+[exlex] das
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=das
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] das
+	+[moot/tag] ART
+	+[moot/lemma] d
+Gute
+	+[exlex] Gute
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Gute
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Gute
+	+[moot/tag] NN
+	+[moot/lemma] Gut
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+befördern
+	+[exlex] befördern
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=befördern
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] befördern
+	+[moot/tag] VVINF
+	+[moot/lemma] befördern
+;
+	+[exlex] ;
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=;
+	+[morph/safe] 1
+	+[moot/word] ;
+	+[moot/tag] $.
+	+[moot/lemma] ;
+könnte
+	+[exlex] könnte
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=könnte
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] könnte
+	+[moot/tag] VMFIN
+	+[moot/lemma] können
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+über
+	+[exlex] über
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=über
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] über
+	+[moot/tag] APPR
+	+[moot/lemma] über
+etwas
+	+[exlex] etwas
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=etwas
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] etwas
+	+[moot/tag] PIAT
+	+[moot/lemma] etwas
+Beschämung
+	+[exlex] Beschämung
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Beschämung
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Beschämung
+	+[moot/tag] NN
+	+[moot/lemma] Beschämung
+fühlen
+	+[exlex] fühlen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=fühlen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] fühlen
+	+[moot/tag] VVFIN
+	+[moot/lemma] fühlen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+so
+	+[exlex] so
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=so
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] so
+	+[moot/tag] ADV
+	+[moot/lemma] so
+wäre
+	+[exlex] wäre
+	+[errid] 25673
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wäre
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wäre
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+es
+	+[exlex] es
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=es
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] es
+	+[moot/tag] PPER
+	+[moot/lemma] es
+darüber
+	+[exlex] darüber
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=darüber
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] darüber
+	+[moot/tag] PAV
+	+[moot/lemma] darüber
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+daß
+	+[exlex] daß
+	+[errid] 197
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=daß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] daß
+	+[moot/tag] KOUS
+	+[moot/lemma] daß
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+Sich
+	+[exlex] Sich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sich
+	+[moot/tag] PRF
+	+[moot/lemma] sich
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+dem
+	+[exlex] dem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=dem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] dem
+	+[moot/tag] ART
+	+[moot/lemma] d
+Werkzeug
+	+[exlex] Werkzeug
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Werkzeug
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Werkzeug
+	+[moot/tag] NN
+	+[moot/lemma] Werkzeug
+dazu
+	+[exlex] dazu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=dazu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] dazu
+	+[moot/tag] PAV
+	+[moot/lemma] dazu
+geirrt
+	+[exlex] geirrt
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=geirrt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] geirrt
+	+[moot/tag] VVPP
+	+[moot/lemma] irren
+hätten
+	+[exlex] hätten
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=hätten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] hätten
+	+[moot/tag] VAFIN
+	+[moot/lemma] haben
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Aber
+	+[exlex] Aber
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Aber
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Aber
+	+[moot/tag] KON
+	+[moot/lemma] aber
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+Beweggrund
+	+[exlex] Beweggrund
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Beweggrund
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Beweggrund
+	+[moot/tag] NN
+	+[moot/lemma] Beweggrund
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+aus
+	+[exlex] aus
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=aus
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] aus
+	+[moot/tag] APPR
+	+[moot/lemma] aus
+dem
+	+[exlex] dem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=dem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] dem
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+erlaube
+	+[exlex] erlaube
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=erlaube
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] erlaube
+	+[moot/tag] VVFIN
+	+[moot/lemma] erlauben
+es
+	+[exlex] es
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=es
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] es
+	+[moot/tag] PPER
+	+[moot/lemma] es
+anzunehmen
+	+[exlex] anzunehmen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=anzunehmen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] anzunehmen
+	+[moot/tag] VVIZU
+	+[moot/lemma] annehmen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+rechtfertigt
+	+[exlex] rechtfertigt
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=rechtfertigt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] rechtfertigt
+	+[moot/tag] VVFIN
+	+[moot/lemma] rechtfertigen
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+vor
+	+[exlex] vor
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=vor
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] vor
+	+[moot/tag] APPR
+	+[moot/lemma] vor
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+selbst
+	+[exlex] selbst
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=selbst
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] selbst
+	+[moot/tag] ADV
+	+[moot/lemma] selbst
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+läßt
+	+[exlex] läßt
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=läßt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] läßt
+	+[moot/tag] VVFIN
+	+[moot/lemma] lassen
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+selbst
+	+[exlex] selbst
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=selbst
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] selbst
+	+[moot/tag] ADV
+	+[moot/lemma] selbst
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+Fesseln
+	+[exlex] Fesseln
+	+[errid] 71903
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Fesseln
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Fesseln
+	+[moot/tag] NN
+	+[moot/lemma] Fessel
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+höchsten
+	+[exlex] höchsten
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=höchsten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] höchsten
+	+[moot/tag] ADJA
+	+[moot/lemma] hoch
+Verpflichtung
+	+[exlex] Verpflichtung
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Verpflichtung
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Verpflichtung
+	+[moot/tag] NN
+	+[moot/lemma] Verpflichtung
+mit
+	+[exlex] mit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mit
+	+[moot/tag] APPR
+	+[moot/lemma] mit
+völliger
+	+[exlex] völliger
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=völliger
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] völliger
+	+[moot/tag] ADJA
+	+[moot/lemma] völlig
+Freiheit
+	+[exlex] Freiheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Freiheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Freiheit
+	+[moot/tag] NN
+	+[moot/lemma] Freiheit
+des
+	+[exlex] des
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=des
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] des
+	+[moot/tag] ART
+	+[moot/lemma] d
+Gefühls
+	+[exlex] Gefühls
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Gefühls
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Gefühls
+	+[moot/tag] NN
+	+[moot/lemma] Gefühl
+vor
+	+[exlex] vor
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=vor
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] vor
+	+[moot/tag] APPR
+	+[moot/lemma] vor
+Ihnen
+	+[exlex] Ihnen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihnen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihnen
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+erscheinen
+	+[exlex] erscheinen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=erscheinen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] erscheinen
+	+[moot/tag] VVINF
+	+[moot/lemma] erscheinen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Nicht
+	+[exlex] Nicht
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Nicht
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Nicht
+	+[moot/tag] PTKNEG
+	+[moot/lemma] nicht
+an
+	+[exlex] an
+	+[errid] 49415
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=an
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] an
+	+[moot/tag] APPR
+	+[moot/lemma] an
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+sondern
+	+[exlex] sondern
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sondern
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sondern
+	+[moot/tag] KON
+	+[moot/lemma] sondern
+an
+	+[exlex] an
+	+[errid] 49415
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=an
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] an
+	+[moot/tag] APPR
+	+[moot/lemma] an
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Menschheit
+	+[exlex] Menschheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Menschheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Menschheit
+	+[moot/tag] NN
+	+[moot/lemma] Menschheit
+habe
+	+[exlex] habe
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=habe
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] habe
+	+[moot/tag] VAFIN
+	+[moot/lemma] haben
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+meine
+	+[exlex] meine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meine
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+Schuld
+	+[exlex] Schuld
+	+[errid] 71208
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Schuld
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Schuld
+	+[moot/tag] NN
+	+[moot/lemma] Schuld
+abzutragen
+	+[exlex] abzutragen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=abzutragen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] abzutragen
+	+[moot/tag] VVIZU
+	+[moot/lemma] abtragen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Diese
+	+[exlex] Diese
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=Diese
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] Diese
+	+[moot/tag] PDS
+	+[moot/lemma] diese
+ist
+	+[exlex] ist
+	+[errid] 25429
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ist
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ist
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+gemeinschaftliche
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=gemeinschaftliche
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] gemeinschaftliche
+	+[moot/tag] ADJA
+	+[moot/lemma] gemeinschaftlich
+Altar
+	+[exlex] Altar
+	+[errid] 57792
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=Altar
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] Altar
+	+[moot/tag] NN
+	+[moot/lemma] Altar
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wo
+	+[exlex] wo
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wo
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wo
+	+[moot/tag] PWAV
+	+[moot/lemma] wo
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+Ihr
+	+[exlex] Ihr
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihr
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihr
+	+[moot/tag] PPOSAT
+	+[moot/lemma] ihr
+Geschenk
+	+[exlex] Geschenk
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Geschenk
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Geschenk
+	+[moot/tag] NN
+	+[moot/lemma] Geschenk
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+meinen
+	+[exlex] meinen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meinen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meinen
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+Dank
+	+[exlex] Dank
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Dank
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Dank
+	+[moot/tag] NN
+	+[moot/lemma] Dank
+niederlege
+	+[exlex] niederlege
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=niederlege
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] niederlege
+	+[moot/tag] VVFIN
+	+[moot/lemma] niederlegen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Ich
+	+[exlex] Ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+weiß
+	+[exlex] weiß
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=weiß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] weiß
+	+[moot/tag] VVFIN
+	+[moot/lemma] wissen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+meine
+	+[exlex] meine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meine
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+Verehrtesten
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Verehrtesten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Verehrtesten
+	+[moot/tag] NN
+	+[moot/lemma] Verehrtesten
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+daß
+	+[exlex] daß
+	+[errid] 197
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=daß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] daß
+	+[moot/tag] KOUS
+	+[moot/lemma] daß
+nur
+	+[exlex] nur
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=nur
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] nur
+	+[moot/tag] ADV
+	+[moot/lemma] nur
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Ueberzeugung
+	+[exlex] Überzeugung
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=Ueberzeugung
+	+[morph/safe] 0
+	+[moot/word] Überzeugung
+	+[moot/tag] NN
+	+[moot/lemma] Überzeugung
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+von
+	+[exlex] von
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=von
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] von
+	+[moot/tag] APPR
+	+[moot/lemma] von
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+verstanden
+	+[exlex] verstanden
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=verstanden
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] verstanden
+	+[moot/tag] VVPP
+	+[moot/lemma] verstehen
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+seyn
+	+[exlex] sein
+	+[errid] 167
+	+[xlit] l1=1 lx=1 l1s=seyn
+	+[morph/safe] 0
+	+[moot/word] sein
+	+[moot/tag] VAINF
+	+[moot/lemma] sein
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+Ihre
+	+[exlex] Ihre
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihre
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihre
+	+[moot/tag] PPOSAT
+	+[moot/lemma] ihr
+Zufriedenheit
+	+[exlex] Zufriedenheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Zufriedenheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Zufriedenheit
+	+[moot/tag] NN
+	+[moot/lemma] Zufriedenheit
+vollendet
+	+[exlex] vollendet
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=vollendet
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] vollendet
+	+[moot/tag] VVPP
+	+[moot/lemma] vollenden
+;
+	+[exlex] ;
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=;
+	+[morph/safe] 1
+	+[moot/word] ;
+	+[moot/tag] $.
+	+[moot/lemma] ;
+darum
+	+[exlex] darum
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=darum
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] darum
+	+[moot/tag] PAV
+	+[moot/lemma] darum
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+darum
+	+[exlex] darum
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=darum
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] darum
+	+[moot/tag] PAV
+	+[moot/lemma] darum
+allein
+	+[exlex] allein
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=allein
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] allein
+	+[moot/tag] ADV
+	+[moot/lemma] allein
+erlaubte
+	+[exlex] erlaubte
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=erlaubte
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] erlaubte
+	+[moot/tag] VVFIN
+	+[moot/lemma] erlauben
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+dieß
+	+[exlex] dies
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=dieß
+	+[morph/safe] 0
+	+[moot/word] dies
+	+[moot/tag] PDS
+	+[moot/lemma] diese
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+sagen
+	+[exlex] sagen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sagen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sagen
+	+[moot/tag] VVINF
+	+[moot/lemma] sagen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Aber
+	+[exlex] Aber
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Aber
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Aber
+	+[moot/tag] KON
+	+[moot/lemma] aber
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+nahe
+	+[exlex] nahe
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=nahe
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] nahe
+	+[moot/tag] ADJA
+	+[moot/lemma] nah
+Antheil
+	+[exlex] Anteil
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=Antheil
+	+[hasmorph] 1
+	+[morph/safe] 0
+	+[moot/word] Anteil
+	+[moot/tag] NN
+	+[moot/lemma] Anteil
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+ein
+	+[exlex] ein
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ein
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ein
+	+[moot/tag] ART
+	+[moot/lemma] eine
+allzupartheyisches
+	+[xlit] l1=1 lx=1 l1s=allzupartheyisches
+	+[morph/safe] 0
+	+[moot/word] parteiisches
+	+[moot/tag] ADJA
+	+[moot/lemma] parteiisch
+Wohlwollen
+	+[exlex] Wohlwollen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Wohlwollen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Wohlwollen
+	+[moot/tag] NN
+	+[moot/lemma] Wohlwollen
+für
+	+[exlex] für
+	+[errid] 25362
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=für
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] für
+	+[moot/tag] APPR
+	+[moot/lemma] für
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+an
+	+[exlex] an
+	+[errid] 49415
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=an
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] an
+	+[moot/tag] APPR
+	+[moot/lemma] an
+Ihrer
+	+[exlex] Ihrer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihrer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihrer
+	+[moot/tag] PPOSAT
+	+[moot/lemma] ihr
+großmüthigen
+	+[exlex] großmütigen
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=großmüthigen
+	+[morph/safe] 0
+	+[moot/word] großmütigen
+	+[moot/tag] ADJA
+	+[moot/lemma] großmütig
+Entschließung
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Entschließung
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Entschließung
+	+[moot/tag] NN
+	+[moot/lemma] Entschließung
+hat
+	+[exlex] hat
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=hat
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] hat
+	+[moot/tag] VAFIN
+	+[moot/lemma] haben
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+Vorzug
+	+[exlex] Vorzug
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Vorzug
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Vorzug
+	+[moot/tag] NN
+	+[moot/lemma] Vorzug
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+vor
+	+[exlex] vor
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=vor
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] vor
+	+[moot/tag] APPR
+	+[moot/lemma] vor
+so
+	+[exlex] so
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=so
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] so
+	+[moot/tag] ADV
+	+[moot/lemma] so
+vielen
+	+[exlex] vielen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=vielen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] vielen
+	+[moot/tag] PIAT
+	+[moot/lemma] viel
+andern
+	+[exlex] anderen
+	+[errid] 486
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=andern
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] anderen
+	+[moot/tag] PIS
+	+[moot/lemma] andere
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+ertheilen
+	+[exlex] erteilen
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=ertheilen
+	+[morph/safe] 0
+	+[moot/word] erteilen
+	+[moot/tag] VVINF
+	+[moot/lemma] erteilen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+als
+	+[exlex] als
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=als
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] als
+	+[moot/tag] KOUS
+	+[moot/lemma] als
+das
+	+[exlex] das
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=das
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] das
+	+[moot/tag] ART
+	+[moot/lemma] d
+Werkzeug
+	+[exlex] Werkzeug
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Werkzeug
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Werkzeug
+	+[moot/tag] NN
+	+[moot/lemma] Werkzeug
+Ihrer
+	+[exlex] Ihrer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihrer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihrer
+	+[moot/tag] PPOSAT
+	+[moot/lemma] ihr
+schönen
+	+[exlex] schönen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=schönen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] schönen
+	+[moot/tag] ADJA
+	+[moot/lemma] schön
+Absicht
+	+[exlex] Absicht
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Absicht
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Absicht
+	+[moot/tag] NN
+	+[moot/lemma] Absicht
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+denken
+	+[exlex] denken
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=denken
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] denken
+	+[moot/tag] VVINF
+	+[moot/lemma] denken
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Güte
+	+[exlex] Güte
+	+[errid] 6120
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Güte
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Güte
+	+[moot/tag] NN
+	+[moot/lemma] Güte
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+mit
+	+[exlex] mit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mit
+	+[moot/tag] APPR
+	+[moot/lemma] mit
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] APPR
+	+[moot/lemma] zu
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+kleinen
+	+[exlex] kleinen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=kleinen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] kleinen
+	+[moot/tag] ADJA
+	+[moot/lemma] klein
+Bedürfnissen
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Bedürfnissen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Bedürfnissen
+	+[moot/tag] NN
+	+[moot/lemma] Bedürfnis
+eines
+	+[exlex] eines
+	+[errid] 23604
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=eines
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] eines
+	+[moot/tag] ART
+	+[moot/lemma] eine
+Ihnen
+	+[exlex] Ihnen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihnen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihnen
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+so
+	+[exlex] so
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=so
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] so
+	+[moot/tag] ADV
+	+[moot/lemma] so
+fremden
+	+[exlex] fremden
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=fremden
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] fremden
+	+[moot/tag] ADJA
+	+[moot/lemma] fremd
+Weltbürgers
+	+[exlex] Weltbürgers
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Weltbürgers
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Weltbürgers
+	+[moot/tag] NN
+	+[moot/lemma] Weltbürger
+herabstiegen
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=herabstiegen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] herabstiegen
+	+[moot/tag] VVFIN
+	+[moot/lemma] herabsteigen
+legen
+	+[exlex] legen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=legen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] legen
+	+[moot/tag] VVFIN
+	+[moot/lemma] legen
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PRF
+	+[moot/lemma] mich
+gegen
+	+[exlex] gegen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=gegen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] gegen
+	+[moot/tag] APPR
+	+[moot/lemma] gegen
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+persönlichsten
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=persönlichsten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] persönlichsten
+	+[moot/tag] ADJA
+	+[moot/lemma] persönlich
+Pflichten
+	+[exlex] Pflichten
+	+[errid] 71930
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Pflichten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Pflichten
+	+[moot/tag] NN
+	+[moot/lemma] Pflicht
+auf
+	+[exlex] auf
+	+[errid] 26401
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=auf
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] auf
+	+[moot/tag] PTKVZ
+	+[moot/lemma] auf
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+mischen
+	+[exlex] mischen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mischen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mischen
+	+[moot/tag] VVFIN
+	+[moot/lemma] mischen
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+meine
+	+[exlex] meine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meine
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+Ehrfurcht
+	+[exlex] Ehrfurcht
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ehrfurcht
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ehrfurcht
+	+[moot/tag] NN
+	+[moot/lemma] Ehrfurcht
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+Bewunderung
+	+[exlex] Bewunderung
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Bewunderung
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Bewunderung
+	+[moot/tag] NN
+	+[moot/lemma] Bewunderung
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Gefühle
+	+[exlex] Gefühle
+	+[errid] 13804
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Gefühle
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Gefühle
+	+[moot/tag] NN
+	+[moot/lemma] Gefühl
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+innigsten
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=innigsten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] innigsten
+	+[moot/tag] ADJA
+	+[moot/lemma] innig
+Liebe
+	+[exlex] Liebe
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Liebe
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Liebe
+	+[moot/tag] NN
+	+[moot/lemma] Liebe
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Wie
+	+[exlex] Wie
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Wie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Wie
+	+[moot/tag] PWAV
+	+[moot/lemma] wie
+stolz
+	+[exlex] stolz
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=stolz
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] stolz
+	+[moot/tag] ADJD
+	+[moot/lemma] stolz
+machen
+	+[exlex] machen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=machen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] machen
+	+[moot/tag] VVFIN
+	+[moot/lemma] machen
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PRF
+	+[moot/lemma] mich
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+daß
+	+[exlex] daß
+	+[errid] 197
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=daß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] daß
+	+[moot/tag] KOUS
+	+[moot/lemma] daß
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+meiner
+	+[exlex] meiner
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meiner
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meiner
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+einem
+	+[exlex] einem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=einem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] einem
+	+[moot/tag] ART
+	+[moot/lemma] eine
+Bunde
+	+[exlex] Bunde
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Bunde
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Bunde
+	+[moot/tag] NN
+	+[moot/lemma] Bund
+gedenken
+	+[exlex] gedenken
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=gedenken
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] gedenken
+	+[moot/tag] VVINF
+	+[moot/lemma] gedenken
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+edelste
+	+[exlex] edelste
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=edelste
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] edelste
+	+[moot/tag] ADJA
+	+[moot/lemma] edel
+aller
+	+[exlex] aller
+	+[errid] 66689
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=aller
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] aller
+	+[moot/tag] PIAT
+	+[moot/lemma] alle
+Zwecke
+	+[exlex] Zwecke
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Zwecke
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Zwecke
+	+[moot/tag] NN
+	+[moot/lemma] Zwecke
+heiligt
+	+[exlex] heiligt
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=heiligt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] heiligt
+	+[moot/tag] VVFIN
+	+[moot/lemma] heiligen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+Enthusiasm
+	+[xlit] l1=1 lx=1 l1s=Enthusiasm
+	+[hasmorph] 1
+	+[morph/safe] 0
+	+[moot/word] Enthusiasm
+	+[moot/tag] NE
+	+[moot/lemma] Enthusiasm
+fürs
+	+[exlex] fürs
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=fürs
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] fürs
+	+[moot/tag] APPRART
+	+[moot/lemma] fürs
+Gute
+	+[exlex] Gute
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Gute
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Gute
+	+[moot/tag] NN
+	+[moot/lemma] Gut
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+fürs
+	+[exlex] fürs
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=fürs
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] fürs
+	+[moot/tag] APPRART
+	+[moot/lemma] fürs
+Große
+	+[exlex] Große
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Große
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Große
+	+[moot/tag] ADJA
+	+[moot/lemma] groß
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+Schöne
+	+[exlex] Schöne
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Schöne
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Schöne
+	+[moot/tag] NN
+	+[moot/lemma] Schöne
+geknüpft
+	+[exlex] geknüpft
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=geknüpft
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] geknüpft
+	+[moot/tag] VVPP
+	+[moot/lemma] knüpfen
+hat
+	+[exlex] hat
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=hat
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] hat
+	+[moot/tag] VAFIN
+	+[moot/lemma] haben
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Aber
+	+[exlex] Aber
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Aber
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Aber
+	+[moot/tag] KON
+	+[moot/lemma] aber
+wie
+	+[exlex] wie
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wie
+	+[moot/tag] PWAV
+	+[moot/lemma] wie
+weit
+	+[exlex] weit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=weit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] weit
+	+[moot/tag] ADJD
+	+[moot/lemma] weit
+ist
+	+[exlex] ist
+	+[errid] 25429
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ist
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ist
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Begeisterung
+	+[exlex] Begeisterung
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Begeisterung
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Begeisterung
+	+[moot/tag] NN
+	+[moot/lemma] Begeisterung
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+welche
+	+[exlex] welche
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=welche
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] welche
+	+[moot/tag] PRELS
+	+[moot/lemma] welche
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+Thaten
+	+[exlex] Taten
+	+[errid] 57834
+	+[xlit] l1=1 lx=1 l1s=Thaten
+	+[hasmorph] 1
+	+[morph/safe] 0
+	+[moot/word] Taten
+	+[moot/tag] NN
+	+[moot/lemma] Tat
+sich
+	+[exlex] sich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sich
+	+[moot/tag] PRF
+	+[moot/lemma] sich
+äußert
+	+[exlex] äußert
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=äußert
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] äußert
+	+[moot/tag] VVFIN
+	+[moot/lemma] äußern
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+über
+	+[exlex] über
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=über
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] über
+	+[moot/tag] APPR
+	+[moot/lemma] über
+diejenige
+	+[exlex] diejenige
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=diejenige
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] diejenige
+	+[moot/tag] PDS
+	+[moot/lemma] diejenige
+erhaben
+	+[exlex] erhaben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=erhaben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] erhaben
+	+[moot/tag] ADJD
+	+[moot/lemma] erhaben
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+sich
+	+[exlex] sich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sich
+	+[moot/tag] PRF
+	+[moot/lemma] sich
+darauf
+	+[exlex] darauf
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=darauf
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] darauf
+	+[moot/tag] PAV
+	+[moot/lemma] darauf
+einschränken
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=einschränken
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] einschränken
+	+[moot/tag] VVINF
+	+[moot/lemma] einschränken
+muß
+	+[exlex] muß
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=muß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] muß
+	+[moot/tag] VMFIN
+	+[moot/lemma] müssen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] APPR
+	+[moot/lemma] zu
+Thaten
+	+[exlex] Taten
+	+[errid] 57834
+	+[xlit] l1=1 lx=1 l1s=Thaten
+	+[hasmorph] 1
+	+[morph/safe] 0
+	+[moot/word] Taten
+	+[moot/tag] NN
+	+[moot/lemma] Tat
+geweckt
+	+[exlex] geweckt
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=geweckt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] geweckt
+	+[moot/tag] VVPP
+	+[moot/lemma] wecken
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+haben
+	+[exlex] haben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=haben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] haben
+	+[moot/tag] VAINF
+	+[moot/lemma] haben
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Wahrheit
+	+[exlex] Wahrheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Wahrheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Wahrheit
+	+[moot/tag] NN
+	+[moot/lemma] Wahrheit
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+Tugend
+	+[exlex] Tugend
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Tugend
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Tugend
+	+[moot/tag] NN
+	+[moot/lemma] Tugend
+mit
+	+[exlex] mit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mit
+	+[moot/tag] APPR
+	+[moot/lemma] mit
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+siegenden
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=siegenden
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] siegenden
+	+[moot/tag] ADJA
+	+[moot/lemma] siegend
+Kraft
+	+[exlex] Kraft
+	+[errid] 71114
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Kraft
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Kraft
+	+[moot/tag] NN
+	+[moot/lemma] Kraft
+auszurüsten
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=auszurüsten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] auszurüsten
+	+[moot/tag] VVIZU
+	+[moot/lemma] ausrüsten
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wodurch
+	+[exlex] wodurch
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wodurch
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wodurch
+	+[moot/tag] PWAV
+	+[moot/lemma] wodurch
+sie
+	+[exlex] sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+Herzen
+	+[exlex] Herzen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Herzen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Herzen
+	+[moot/tag] NN
+	+[moot/lemma] Herz
+sich
+	+[exlex] sich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sich
+	+[moot/tag] PRF
+	+[moot/lemma] sich
+unterwürfig
+	+[exlex] unterwürfig
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=unterwürfig
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] unterwürfig
+	+[moot/tag] ADJD
+	+[moot/lemma] unterwürfig
+machen
+	+[exlex] machen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=machen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] machen
+	+[moot/tag] VVINF
+	+[moot/lemma] machen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+ist
+	+[exlex] ist
+	+[errid] 25429
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ist
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ist
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+alles
+	+[exlex] alles
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=alles
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] alles
+	+[moot/tag] PIS
+	+[moot/lemma] alle
+was
+	+[exlex] was
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=was
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] was
+	+[moot/tag] PWS
+	+[moot/lemma] was
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+Philosoph
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Philosoph
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Philosoph
+	+[moot/tag] NN
+	+[moot/lemma] Philosoph
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+darstellende
+	+[exlex] darstellende
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=darstellende
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] darstellende
+	+[moot/tag] ADJA
+	+[moot/lemma] darstellend
+Künstler
+	+[exlex] Künstler
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Künstler
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Künstler
+	+[moot/tag] NN
+	+[moot/lemma] Künstler
+vermögen
+	+[exlex] vermögen
+	+[errid] 71122
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=vermögen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] vermögen
+	+[moot/tag] VVFIN
+	+[moot/lemma] vermögen
+–
+	+[exlex] –
+	+[errid] ec
+	+[lang] xy
+	+[xlit] l1=0 lx=1 l1s=-
+	+[morph/safe] 1
+	+[moot/word] -
+	+[moot/tag] $(
+	+[moot/lemma] -
+wieviel
+	+[exlex] wieviel
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wieviel
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wieviel
+	+[moot/tag] PWAV
+	+[moot/lemma] wieviel
+anders
+	+[exlex] anders
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=anders
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] anders
+	+[moot/tag] ADV
+	+[moot/lemma] anders
+ists
+	+[exlex] ist_es
+	+[errid] 660
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ists
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ist_es
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein_es
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Ideale
+	+[exlex] Ideale
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ideale
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ideale
+	+[moot/tag] NN
+	+[moot/lemma] Ideal
+von
+	+[exlex] von
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=von
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] von
+	+[moot/tag] APPR
+	+[moot/lemma] von
+beiden
+	+[exlex] beiden
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=beiden
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] beiden
+	+[moot/tag] PIS
+	+[moot/lemma] beide
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+einem
+	+[exlex] einem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=einem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] einem
+	+[moot/tag] ART
+	+[moot/lemma] eine
+schönen
+	+[exlex] schönen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=schönen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] schönen
+	+[moot/tag] ADJA
+	+[moot/lemma] schön
+Leben
+	+[exlex] Leben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Leben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Leben
+	+[moot/tag] NN
+	+[moot/lemma] Leben
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+realisieren
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=realisieren
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] realisieren
+	+[moot/tag] VVINF
+	+[moot/lemma] realisieren
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Ich
+	+[exlex] Ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+muß
+	+[exlex] muß
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=muß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] muß
+	+[moot/tag] VMFIN
+	+[moot/lemma] müssen
+Ihnen
+	+[exlex] Ihnen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihnen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihnen
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+hier
+	+[exlex] hier
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=hier
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] hier
+	+[moot/tag] ADV
+	+[moot/lemma] hier
+mit
+	+[exlex] mit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mit
+	+[moot/tag] APPR
+	+[moot/lemma] mit
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+Worten
+	+[exlex] Worten
+	+[errid] 61223
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Worten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Worten
+	+[moot/tag] NN
+	+[moot/lemma] Wort
+des
+	+[exlex] des
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=des
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] des
+	+[moot/tag] ART
+	+[moot/lemma] d
+Fiesko
+	+[exlex] Fiesko
+	+[errid] 21777
+	+[xlit] l1=1 lx=1 l1s=Fiesko
+	+[morph/safe] 0
+	+[moot/word] Fiesko
+	+[moot/tag] NN
+	+[moot/lemma] Fiesko
+antworten
+	+[exlex] antworten
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=antworten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] antworten
+	+[moot/tag] VVINF
+	+[moot/lemma] antworten
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+womit
+	+[exlex] womit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=womit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] womit
+	+[moot/tag] PWAV
+	+[moot/lemma] womit
+er
+	+[exlex] er
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=er
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] er
+	+[moot/tag] PPER
+	+[moot/lemma] er
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+Stolz
+	+[exlex] Stolz
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Stolz
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Stolz
+	+[moot/tag] NN
+	+[moot/lemma] Stolz
+eines
+	+[exlex] eines
+	+[errid] 23604
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=eines
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] eines
+	+[moot/tag] ART
+	+[moot/lemma] eine
+Künstlers
+	+[exlex] Künstlers
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Künstlers
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Künstlers
+	+[moot/tag] NN
+	+[moot/lemma] Künstler
+abfertigt
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=abfertigt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] abfertigt
+	+[moot/tag] VVFIN
+	+[moot/lemma] abfertigen
+:
+	+[exlex] :
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=:
+	+[morph/safe] 1
+	+[moot/word] :
+	+[moot/tag] $.
+	+[moot/lemma] :
+
+%% $s:lang=de
+„
+	+[exlex] „
+	+[errid] 58762
+	+[xlit] l1=0 lx=1 l1s="
+	+[morph/safe] 1
+	+[moot/word] "
+	+[moot/tag] $(
+	+[moot/lemma] "
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+haben
+	+[exlex] haben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=haben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] haben
+	+[moot/tag] VAFIN
+	+[moot/lemma] haben
+gethan
+	+[exlex] getan
+	+[errid] 57811
+	+[xlit] l1=1 lx=1 l1s=gethan
+	+[morph/safe] 0
+	+[moot/word] getan
+	+[moot/tag] VVPP
+	+[moot/lemma] tun
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+was
+	+[exlex] was
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=was
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] was
+	+[moot/tag] PWS
+	+[moot/lemma] was
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+nur
+	+[exlex] nur
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=nur
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] nur
+	+[moot/tag] ADV
+	+[moot/lemma] nur
+mahlen
+	+[exlex] malen
+	+[errid] 63464
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mahlen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] malen
+	+[moot/tag] VVINF
+	+[moot/lemma] malen
+konnte
+	+[exlex] konnte
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=konnte
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] konnte
+	+[moot/tag] VMFIN
+	+[moot/lemma] können
+!
+	+[exlex] !
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=!
+	+[morph/safe] 1
+	+[moot/word] !
+	+[moot/tag] $.
+	+[moot/lemma] !
+“
+	+[exlex] “
+	+[errid] ec
+	+[xlit] l1=0 lx=1 l1s="
+	+[morph/safe] 1
+	+[moot/word] "
+	+[moot/tag] $(
+	+[moot/lemma] "
+–
+	+[exlex] –
+	+[errid] ec
+	+[lang] xy
+	+[xlit] l1=0 lx=1 l1s=-
+	+[morph/safe] 1
+	+[moot/word] -
+	+[moot/tag] $(
+	+[moot/lemma] -
+
+%% $s:lang=de
+Aber
+	+[exlex] Aber
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Aber
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Aber
+	+[moot/tag] KON
+	+[moot/lemma] aber
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wenn
+	+[exlex] wenn
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wenn
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wenn
+	+[moot/tag] KOUS
+	+[moot/lemma] wenn
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+es
+	+[exlex] es
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=es
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] es
+	+[moot/tag] PPER
+	+[moot/lemma] es
+auch
+	+[exlex] auch
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=auch
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] auch
+	+[moot/tag] ADV
+	+[moot/lemma] auch
+vergessen
+	+[exlex] vergessen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=vergessen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] vergessen
+	+[moot/tag] VVINF
+	+[moot/lemma] vergessen
+könnte
+	+[exlex] könnte
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=könnte
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] könnte
+	+[moot/tag] VMFIN
+	+[moot/lemma] können
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+daß
+	+[exlex] daß
+	+[errid] 197
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=daß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] daß
+	+[moot/tag] KOUS
+	+[moot/lemma] daß
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+selbst
+	+[exlex] selbst
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=selbst
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] selbst
+	+[moot/tag] ADV
+	+[moot/lemma] selbst
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+Gegenstand
+	+[exlex] Gegenstand
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Gegenstand
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Gegenstand
+	+[moot/tag] NN
+	+[moot/lemma] Gegenstand
+Ihrer
+	+[exlex] Ihrer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihrer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihrer
+	+[moot/tag] PPOSAT
+	+[moot/lemma] ihr
+Güte
+	+[exlex] Güte
+	+[errid] 6120
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Güte
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Güte
+	+[moot/tag] NN
+	+[moot/lemma] Güte
+bin
+	+[exlex] bin
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=bin
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] bin
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+daß
+	+[exlex] daß
+	+[errid] 197
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=daß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] daß
+	+[moot/tag] KOUS
+	+[moot/lemma] daß
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+Ihnen
+	+[exlex] Ihnen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihnen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihnen
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+schöne
+	+[exlex] schöne
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=schöne
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] schöne
+	+[moot/tag] ADJA
+	+[moot/lemma] schön
+Aussicht
+	+[exlex] Aussicht
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Aussicht
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Aussicht
+	+[moot/tag] NN
+	+[moot/lemma] Aussicht
+zur
+	+[exlex] zur
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zur
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zur
+	+[moot/tag] APPRART
+	+[moot/lemma] zur
+Vollendung
+	+[exlex] Vollendung
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Vollendung
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Vollendung
+	+[moot/tag] NN
+	+[moot/lemma] Vollendung
+meiner
+	+[exlex] meiner
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meiner
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meiner
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+Entwürfe
+	+[exlex] Entwürfe
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Entwürfe
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Entwürfe
+	+[moot/tag] NN
+	+[moot/lemma] Entwurf
+verdanke
+	+[exlex] verdanke
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=verdanke
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] verdanke
+	+[moot/tag] VVFIN
+	+[moot/lemma] verdanken
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+so
+	+[exlex] so
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=so
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] so
+	+[moot/tag] ADV
+	+[moot/lemma] so
+würde
+	+[exlex] würde
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=würde
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] würde
+	+[moot/tag] VAFIN
+	+[moot/lemma] werden
+dennoch
+	+[exlex] dennoch
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=dennoch
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] dennoch
+	+[moot/tag] ADV
+	+[moot/lemma] dennoch
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+eine
+	+[exlex] eine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=eine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] eine
+	+[moot/tag] ART
+	+[moot/lemma] eine
+Verbindlichkeit
+	+[exlex] Verbindlichkeit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Verbindlichkeit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Verbindlichkeit
+	+[moot/tag] NN
+	+[moot/lemma] Verbindlichkeit
+von
+	+[exlex] von
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=von
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] von
+	+[moot/tag] APPR
+	+[moot/lemma] von
+sehr
+	+[exlex] sehr
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sehr
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sehr
+	+[moot/tag] ADV
+	+[moot/lemma] sehr
+hoher
+	+[exlex] hoher
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=hoher
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] hoher
+	+[moot/tag] ADJA
+	+[moot/lemma] hoch
+Art
+	+[exlex] Art
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Art
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Art
+	+[moot/tag] NN
+	+[moot/lemma] Art
+gegen
+	+[exlex] gegen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=gegen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] gegen
+	+[moot/tag] APPR
+	+[moot/lemma] gegen
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+übrig
+	+[exlex] übrig
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=übrig
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] übrig
+	+[moot/tag] ADJD
+	+[moot/lemma] übrig
+bleiben
+	+[exlex] bleiben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=bleiben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] bleiben
+	+[moot/tag] VVINF
+	+[moot/lemma] bleiben
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Eine
+	+[exlex] Eine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Eine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Eine
+	+[moot/tag] ART
+	+[moot/lemma] eine
+Erscheinung
+	+[exlex] Erscheinung
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Erscheinung
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Erscheinung
+	+[moot/tag] NN
+	+[moot/lemma] Erscheinung
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wie
+	+[exlex] wie
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wie
+	+[moot/tag] PWAV
+	+[moot/lemma] wie
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+waren
+	+[exlex] waren
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=waren
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] waren
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+richtet
+	+[exlex] richtet
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=richtet
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] richtet
+	+[moot/tag] VVFIN
+	+[moot/lemma] richten
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+glauben
+	+[exlex] glauben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=glauben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] glauben
+	+[moot/tag] VVFIN
+	+[moot/lemma] glauben
+an
+	+[exlex] an
+	+[errid] 49415
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=an
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] an
+	+[moot/tag] APPR
+	+[moot/lemma] an
+reine
+	+[exlex] reine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=reine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] reine
+	+[moot/tag] ADJA
+	+[moot/lemma] rein
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+edle
+	+[exlex] edle
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=edle
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] edle
+	+[moot/tag] ADJA
+	+[moot/lemma] edel
+Menschheit
+	+[exlex] Menschheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Menschheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Menschheit
+	+[moot/tag] NN
+	+[moot/lemma] Menschheit
+wieder
+	+[exlex] wieder
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wieder
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wieder
+	+[moot/tag] ADV
+	+[moot/lemma] wieder
+auf
+	+[exlex] auf
+	+[errid] 26401
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=auf
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] auf
+	+[moot/tag] PTKVZ
+	+[moot/lemma] auf
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+so
+	+[exlex] so
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=so
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] so
+	+[moot/tag] ADV
+	+[moot/lemma] so
+zahlreiche
+	+[exlex] zahlreiche
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zahlreiche
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zahlreiche
+	+[moot/tag] ADJA
+	+[moot/lemma] zahlreich
+Beispiele
+	+[exlex] Beispiele
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Beispiele
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Beispiele
+	+[moot/tag] NN
+	+[moot/lemma] Beispiel
+vom
+	+[exlex] vom
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=vom
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] vom
+	+[moot/tag] APPRART
+	+[moot/lemma] vom
+Gegentheil
+	+[exlex] Gegenteil
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=Gegentheil
+	+[hasmorph] 1
+	+[morph/safe] 0
+	+[moot/word] Gegenteil
+	+[moot/tag] NN
+	+[moot/lemma] Gegenteil
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+wirklichen
+	+[exlex] wirklichen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wirklichen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wirklichen
+	+[moot/tag] ADJA
+	+[moot/lemma] wirklich
+Welt
+	+[exlex] Welt
+	+[errid] 9400
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Welt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Welt
+	+[moot/tag] NN
+	+[moot/lemma] Welt
+niederschlagen
+	+[exlex] niederschlagen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=niederschlagen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] niederschlagen
+	+[moot/tag] VVINF
+	+[moot/lemma] niederschlagen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Unaussprechliche
+	+[exlex] Unaussprechliche
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Unaussprechliche
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Unaussprechliche
+	+[moot/tag] ADJA
+	+[moot/lemma] unaussprechlich
+Wollust
+	+[exlex] Wollust
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Wollust
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Wollust
+	+[moot/tag] NN
+	+[moot/lemma] Wollust
+ist
+	+[exlex] ist
+	+[errid] 25429
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ist
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ist
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+es
+	+[exlex] es
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=es
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] es
+	+[moot/tag] PPER
+	+[moot/lemma] es
+für
+	+[exlex] für
+	+[errid] 25362
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=für
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] für
+	+[moot/tag] APPR
+	+[moot/lemma] für
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+Mahler
+	+[exlex] Maler
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Mahler
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Maler
+	+[moot/tag] NN
+	+[moot/lemma] Maler
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+Menschheit
+	+[exlex] Menschheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Menschheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Menschheit
+	+[moot/tag] NN
+	+[moot/lemma] Menschheit
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+im
+	+[exlex] im
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=im
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] im
+	+[moot/tag] APPRART
+	+[moot/lemma] im
+wirklichen
+	+[exlex] wirklichen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wirklichen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wirklichen
+	+[moot/tag] ADJA
+	+[moot/lemma] wirklich
+Leben
+	+[exlex] Leben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Leben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Leben
+	+[moot/tag] NN
+	+[moot/lemma] Leben
+auf
+	+[exlex] auf
+	+[errid] 26401
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=auf
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] auf
+	+[moot/tag] APPR
+	+[moot/lemma] auf
+Züge
+	+[exlex] Züge
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Züge
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Züge
+	+[moot/tag] NN
+	+[moot/lemma] Zug
+desjenigen
+	+[exlex] desjenigen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=desjenigen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] desjenigen
+	+[moot/tag] PDAT
+	+[moot/lemma] desjenig
+Bildes
+	+[exlex] Bildes
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Bildes
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Bildes
+	+[moot/tag] NN
+	+[moot/lemma] Bild
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+treffen
+	+[exlex] treffen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=treffen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] treffen
+	+[moot/tag] VVINF
+	+[moot/lemma] treffen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+das
+	+[exlex] das
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=das
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] das
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+sich
+	+[exlex] sich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sich
+	+[moot/tag] PRF
+	+[moot/lemma] sich
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+seinem
+	+[exlex] seinem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=seinem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] seinem
+	+[moot/tag] PPOSAT
+	+[moot/lemma] seine
+innern
+	+[exlex] inneren
+	+[errid] 380
+	+[xlit] l1=1 lx=1 l1s=innern
+	+[morph/safe] 0
+	+[moot/word] inneren
+	+[moot/tag] ADJA
+	+[moot/lemma] inner
+verklären
+	+[exlex] verklären
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=verklären
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] verklären
+	+[moot/tag] VVINF
+	+[moot/lemma] verklären
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+seinen
+	+[exlex] seinen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=seinen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] seinen
+	+[moot/tag] PPOSAT
+	+[moot/lemma] seine
+Schilderungen
+	+[exlex] Schilderungen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Schilderungen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Schilderungen
+	+[moot/tag] NN
+	+[moot/lemma] Schilderung
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] APPR
+	+[moot/lemma] zu
+Grunde
+	+[exlex] Grunde
+	+[errid] 6138
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Grunde
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Grunde
+	+[moot/tag] NN
+	+[moot/lemma] Grund
+liegen
+	+[exlex] liegen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=liegen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] liegen
+	+[moot/tag] VVINF
+	+[moot/lemma] liegen
+muß
+	+[exlex] muß
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=muß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] muß
+	+[moot/tag] VMFIN
+	+[moot/lemma] müssen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Aber
+	+[exlex] Aber
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Aber
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Aber
+	+[moot/tag] KON
+	+[moot/lemma] aber
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+fühle
+	+[exlex] fühle
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=fühle
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] fühle
+	+[moot/tag] VVFIN
+	+[moot/lemma] fühlen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wieviel
+	+[exlex] wieviel
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wieviel
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wieviel
+	+[moot/tag] PWAV
+	+[moot/lemma] wieviel
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+durch
+	+[exlex] durch
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=durch
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] durch
+	+[moot/tag] APPR
+	+[moot/lemma] durch
+Uebernehmung
+	+[xlit] l1=1 lx=1 l1s=Uebernehmung
+	+[morph/safe] 0
+	+[moot/word] Übernehmung
+	+[moot/tag] NN
+	+[moot/lemma] Übernehmung
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+großen
+	+[exlex] großen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=großen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] großen
+	+[moot/tag] ADJA
+	+[moot/lemma] groß
+Verbindlichkeit
+	+[exlex] Verbindlichkeit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Verbindlichkeit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Verbindlichkeit
+	+[moot/tag] NN
+	+[moot/lemma] Verbindlichkeit
+verliere
+	+[exlex] verliere
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=verliere
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] verliere
+	+[moot/tag] VVFIN
+	+[moot/lemma] verlieren
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+auferlegen
+	+[exlex] auferlegen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=auferlegen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] auferlegen
+	+[moot/tag] VVFIN
+	+[moot/lemma] auferlegen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Ich
+	+[exlex] Ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+verliere
+	+[exlex] verliere
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=verliere
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] verliere
+	+[moot/tag] VVFIN
+	+[moot/lemma] verlieren
+durch
+	+[exlex] durch
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=durch
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] durch
+	+[moot/tag] APPR
+	+[moot/lemma] durch
+sie
+	+[exlex] sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+süße
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=süße
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] süße
+	+[moot/tag] ADJA
+	+[moot/lemma] süß
+Freiheit
+	+[exlex] Freiheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Freiheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Freiheit
+	+[moot/tag] NN
+	+[moot/lemma] Freiheit
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+meiner
+	+[exlex] meiner
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meiner
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meiner
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+Bewunderung
+	+[exlex] Bewunderung
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Bewunderung
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Bewunderung
+	+[moot/tag] NN
+	+[moot/lemma] Bewunderung
+Sprache
+	+[exlex] Sprache
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sprache
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sprache
+	+[moot/tag] NN
+	+[moot/lemma] Sprache
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+geben
+	+[exlex] geben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=geben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] geben
+	+[moot/tag] VVINF
+	+[moot/lemma] geben
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+eine
+	+[exlex] eine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=eine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] eine
+	+[moot/tag] ART
+	+[moot/lemma] eine
+so
+	+[exlex] so
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=so
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] so
+	+[moot/tag] ADV
+	+[moot/lemma] so
+uneigennützig
+	+[exlex] uneigennützig
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=uneigennützig
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] uneigennützig
+	+[moot/tag] ADJD
+	+[moot/lemma] uneigennützig
+schöne
+	+[exlex] schöne
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=schöne
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] schöne
+	+[moot/tag] ADJA
+	+[moot/lemma] schön
+Handlungsart
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Handlungsart
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Handlungsart
+	+[moot/tag] NN
+	+[moot/lemma] Handlungsart
+mit
+	+[exlex] mit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mit
+	+[moot/tag] APPR
+	+[moot/lemma] mit
+gleich
+	+[exlex] gleich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=gleich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] gleich
+	+[moot/tag] ADV
+	+[moot/lemma] gleich
+uneigennützigem
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=uneigennützigem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] uneigennützigem
+	+[moot/tag] ADJA
+	+[moot/lemma] uneigennützig
+Gefühl
+	+[exlex] Gefühl
+	+[errid] 13805
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Gefühl
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Gefühl
+	+[moot/tag] NN
+	+[moot/lemma] Gefühl
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+verherrlichen
+	+[exlex] verherrlichen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=verherrlichen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] verherrlichen
+	+[moot/tag] VVINF
+	+[moot/lemma] verherrlichen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Die
+	+[exlex] Die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Möglichkeit
+	+[exlex] Möglichkeit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Möglichkeit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Möglichkeit
+	+[moot/tag] NN
+	+[moot/lemma] Möglichkeit
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+Ihnen
+	+[exlex] Ihnen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihnen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihnen
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+denjenigen
+	+[exlex] denjenigen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=denjenigen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] denjenigen
+	+[moot/tag] PDS
+	+[moot/lemma] diejenige
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+Person
+	+[exlex] Person
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Person
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Person
+	+[moot/tag] NN
+	+[moot/lemma] Person
+darzustellen
+	+[exlex] darzustellen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=darzustellen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] darzustellen
+	+[moot/tag] VVIZU
+	+[moot/lemma] darstellen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+Sich
+	+[exlex] Sich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sich
+	+[moot/tag] PRF
+	+[moot/lemma] sich
+so
+	+[exlex] so
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=so
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] so
+	+[moot/tag] ADV
+	+[moot/lemma] so
+tief
+	+[exlex] tief
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=tief
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] tief
+	+[moot/tag] ADJD
+	+[moot/lemma] tief
+verpflichtet
+	+[exlex] verpflichtet
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=verpflichtet
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] verpflichtet
+	+[moot/tag] VVPP
+	+[moot/lemma] verpflichten
+haben
+	+[exlex] haben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=haben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] haben
+	+[moot/tag] VAFIN
+	+[moot/lemma] haben
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wird
+	+[exlex] wird
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wird
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wird
+	+[moot/tag] VAFIN
+	+[moot/lemma] werden
+das
+	+[exlex] das
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=das
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] das
+	+[moot/tag] ART
+	+[moot/lemma] d
+Werk
+	+[exlex] Werk
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Werk
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Werk
+	+[moot/tag] NN
+	+[moot/lemma] Werk
+Ihrer
+	+[exlex] Ihrer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihrer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihrer
+	+[moot/tag] PPOSAT
+	+[moot/lemma] ihr
+großmüthigen
+	+[exlex] großmütigen
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=großmüthigen
+	+[morph/safe] 0
+	+[moot/word] großmütigen
+	+[moot/tag] ADJA
+	+[moot/lemma] großmütig
+Unterstützung
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Unterstützung
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Unterstützung
+	+[moot/tag] NN
+	+[moot/lemma] Unterstützung
+seyn
+	+[exlex] sein
+	+[errid] 167
+	+[xlit] l1=1 lx=1 l1s=seyn
+	+[morph/safe] 0
+	+[moot/word] sein
+	+[moot/tag] VAINF
+	+[moot/lemma] sein
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Durch
+	+[exlex] Durch
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Durch
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Durch
+	+[moot/tag] APPR
+	+[moot/lemma] durch
+diese
+	+[exlex] diese
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=diese
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] diese
+	+[moot/tag] PDS
+	+[moot/lemma] diese
+werde
+	+[exlex] werde
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=werde
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] werde
+	+[moot/tag] VAFIN
+	+[moot/lemma] werden
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PRF
+	+[moot/lemma] mich
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+Stand
+	+[exlex] Stand
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Stand
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Stand
+	+[moot/tag] NN
+	+[moot/lemma] Stand
+gesetzt
+	+[exlex] gesetzt
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=gesetzt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] gesetzt
+	+[moot/tag] VVPP
+	+[moot/lemma] setzen
+sehen
+	+[exlex] sehen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sehen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sehen
+	+[moot/tag] VVINF
+	+[moot/lemma] sehen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+meine
+	+[exlex] meine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meine
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+Gesundheit
+	+[exlex] Gesundheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Gesundheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Gesundheit
+	+[moot/tag] NN
+	+[moot/lemma] Gesundheit
+allmählig
+	+[exlex] allmählich
+	+[errid] 58997
+	+[xlit] l1=1 lx=1 l1s=allmählig
+	+[morph/safe] 0
+	+[moot/word] allmählich
+	+[moot/tag] ADJD
+	+[moot/lemma] allmählich
+wieder
+	+[exlex] wieder
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wieder
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wieder
+	+[moot/tag] ADV
+	+[moot/lemma] wieder
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+gewinnen
+	+[exlex] gewinnen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=gewinnen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] gewinnen
+	+[moot/tag] VVINF
+	+[moot/lemma] gewinnen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Beschwerden
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Beschwerden
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Beschwerden
+	+[moot/tag] NN
+	+[moot/lemma] Beschwerde
+einer
+	+[exlex] einer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=einer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] einer
+	+[moot/tag] ART
+	+[moot/lemma] eine
+Reise
+	+[exlex] Reise
+	+[errid] 71760
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Reise
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Reise
+	+[moot/tag] NN
+	+[moot/lemma] Reise
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+Wechsel
+	+[exlex] Wechsel
+	+[errid] 9462
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Wechsel
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Wechsel
+	+[moot/tag] NN
+	+[moot/lemma] Wechsel
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+Lebensart
+	+[exlex] Lebensart
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Lebensart
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Lebensart
+	+[moot/tag] NN
+	+[moot/lemma] Lebensart
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+des
+	+[exlex] des
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=des
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] des
+	+[moot/tag] ART
+	+[moot/lemma] d
+Climas
+	+[xlit] l1=1 lx=1 l1s=Climas
+	+[morph/safe] 0
+	+[moot/word] Klimas
+	+[moot/tag] NN
+	+[moot/lemma] Klima
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+ertragen
+	+[exlex] ertragen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ertragen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ertragen
+	+[moot/tag] VVINF
+	+[moot/lemma] ertragen
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Gegenwärtig
+	+[exlex] Gegenwärtig
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Gegenwärtig
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Gegenwärtig
+	+[moot/tag] ADJD
+	+[moot/lemma] gegenwärtig
+bin
+	+[exlex] bin
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=bin
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] bin
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+ich
+	+[exlex] ich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+noch
+	+[exlex] noch
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=noch
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] noch
+	+[moot/tag] ADV
+	+[moot/lemma] noch
+immer
+	+[exlex] immer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=immer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] immer
+	+[moot/tag] ADV
+	+[moot/lemma] immer
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+Rückfällen
+	+[exlex] Rückfällen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Rückfällen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Rückfällen
+	+[moot/tag] NN
+	+[moot/lemma] Rückfall
+in
+	+[exlex] in
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=in
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] in
+	+[moot/tag] APPR
+	+[moot/lemma] in
+eine
+	+[exlex] eine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=eine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] eine
+	+[moot/tag] ART
+	+[moot/lemma] eine
+Krankheit
+	+[exlex] Krankheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Krankheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Krankheit
+	+[moot/tag] NN
+	+[moot/lemma] Krankheit
+ausgesetzt
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ausgesetzt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ausgesetzt
+	+[moot/tag] VVPP
+	+[moot/lemma] aussetzen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+mir
+	+[exlex] mir
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mir
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mir
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+Genuß
+	+[exlex] Genuß
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Genuß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Genuß
+	+[moot/tag] NN
+	+[moot/lemma] Genuß
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+reinsten
+	+[exlex] reinsten
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=reinsten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] reinsten
+	+[moot/tag] ADJA
+	+[moot/lemma] rein
+Lebensfreuden
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Lebensfreuden
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Lebensfreuden
+	+[moot/tag] NN
+	+[moot/lemma] Lebensfreude
+schmälert
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=schmälert
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] schmälert
+	+[moot/tag] VVFIN
+	+[moot/lemma] schmälern
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+nur
+	+[exlex] nur
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=nur
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] nur
+	+[moot/tag] ADV
+	+[moot/lemma] nur
+sehr
+	+[exlex] sehr
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sehr
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sehr
+	+[moot/tag] ADV
+	+[moot/lemma] sehr
+langsam
+	+[exlex] langsam
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=langsam
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] langsam
+	+[moot/tag] ADJD
+	+[moot/lemma] langsam
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wie
+	+[exlex] wie
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wie
+	+[moot/tag] PWAV
+	+[moot/lemma] wie
+sie
+	+[exlex] sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+kam
+	+[exlex] kam
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=kam
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] kam
+	+[moot/tag] VVFIN
+	+[moot/lemma] kommen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wird
+	+[exlex] wird
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wird
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wird
+	+[moot/tag] VAFIN
+	+[moot/lemma] werden
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+heben
+	+[exlex] heben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=heben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] heben
+	+[moot/tag] VVINF
+	+[moot/lemma] heben
+seyn
+	+[exlex] sein
+	+[errid] 167
+	+[xlit] l1=1 lx=1 l1s=seyn
+	+[morph/safe] 0
+	+[moot/word] sein
+	+[moot/tag] VAINF
+	+[moot/lemma] sein
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Unter
+	+[exlex] Unter
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Unter
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Unter
+	+[moot/tag] APPR
+	+[moot/lemma] unter
+den
+	+[exlex] den
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=den
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] den
+	+[moot/tag] ART
+	+[moot/lemma] d
+vielen
+	+[exlex] vielen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=vielen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] vielen
+	+[moot/tag] PIAT
+	+[moot/lemma] viel
+Entbehrungen
+	+[exlex] Entbehrungen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Entbehrungen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Entbehrungen
+	+[moot/tag] NN
+	+[moot/lemma] Entbehrung
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wozu
+	+[exlex] wozu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wozu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wozu
+	+[moot/tag] PWAV
+	+[moot/lemma] wozu
+Sie
+	+[exlex] Sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+verurtheilt
+	+[exlex] verurteilt
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=verurtheilt
+	+[morph/safe] 0
+	+[moot/word] verurteilt
+	+[moot/tag] VVPP
+	+[moot/lemma] verurteilen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+ist
+	+[exlex] ist
+	+[errid] 25429
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ist
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ist
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+diese
+	+[exlex] diese
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=diese
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] diese
+	+[moot/tag] PDAT
+	+[moot/lemma] diese
+keine
+	+[exlex] keine
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=keine
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] keine
+	+[moot/tag] PIAT
+	+[moot/lemma] keine
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+geringsten
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=geringsten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] geringsten
+	+[moot/tag] ADJA
+	+[moot/lemma] gering
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+daß
+	+[exlex] daß
+	+[errid] 197
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=daß
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] daß
+	+[moot/tag] KOUS
+	+[moot/lemma] daß
+sie
+	+[exlex] sie
+	+[errid] 48281
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sie
+	+[moot/tag] PPER
+	+[moot/lemma] sie
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+glückliche
+	+[exlex] glückliche
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=glückliche
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] glückliche
+	+[moot/tag] ADJA
+	+[moot/lemma] glücklich
+Zeit
+	+[exlex] Zeit
+	+[errid] 23806
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Zeit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Zeit
+	+[moot/tag] NN
+	+[moot/lemma] Zeit
+verzögert
+	+[exlex] verzögert
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=verzögert
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] verzögert
+	+[moot/tag] VVPP
+	+[moot/lemma] verzögern
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wo
+	+[exlex] wo
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wo
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wo
+	+[moot/tag] PWAV
+	+[moot/lemma] wo
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+der
+	+[exlex] der
+	+[errid] 57133
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=der
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] der
+	+[moot/tag] ART
+	+[moot/lemma] d
+lebendige
+	+[exlex] lebendige
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=lebendige
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] lebendige
+	+[moot/tag] ADJA
+	+[moot/lemma] lebendig
+Anblick
+	+[exlex] Anblick
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Anblick
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Anblick
+	+[moot/tag] NN
+	+[moot/lemma] Anblick
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+Umgang
+	+[exlex] Umgang
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Umgang
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Umgang
+	+[moot/tag] NN
+	+[moot/lemma] Umgang
+mit
+	+[exlex] mit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mit
+	+[moot/tag] APPR
+	+[moot/lemma] mit
+tausend
+	+[exlex] tausend
+	+[errid] 24695
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=tausend
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] tausend
+	+[moot/tag] CARD
+	+[moot/lemma] tausend
+unzerreißbaren
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=unzerreißbaren
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] unzerreißbaren
+	+[moot/tag] ADJA
+	+[moot/lemma] unzerreißbar
+Banden
+	+[exlex] Banden
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Banden
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Banden
+	+[moot/tag] NN
+	+[moot/lemma] Bande
+an
+	+[exlex] an
+	+[errid] 49415
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=an
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] an
+	+[moot/tag] APPR
+	+[moot/lemma] an
+zwey
+	+[exlex] zwei
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=zwey
+	+[morph/safe] 0
+	+[moot/word] zwei
+	+[moot/tag] CARD
+	+[moot/lemma] zwei
+Herzen
+	+[exlex] Herzen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Herzen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Herzen
+	+[moot/tag] NN
+	+[moot/lemma] Herz
+fesseln
+	+[exlex] fesseln
+	+[errid] 71903
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=fesseln
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] fesseln
+	+[moot/tag] VVINF
+	+[moot/lemma] fesseln
+wird
+	+[exlex] wird
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wird
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wird
+	+[moot/tag] VAFIN
+	+[moot/lemma] werden
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] PRELS
+	+[moot/lemma] die
+mich
+	+[exlex] mich
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mich
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mich
+	+[moot/tag] PPER
+	+[moot/lemma] ich
+jetzt
+	+[exlex] jetzt
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=jetzt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] jetzt
+	+[moot/tag] ADV
+	+[moot/lemma] jetzt
+noch
+	+[exlex] noch
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=noch
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] noch
+	+[moot/tag] ADV
+	+[moot/lemma] noch
+aus
+	+[exlex] aus
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=aus
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] aus
+	+[moot/tag] APPR
+	+[moot/lemma] aus
+unsichtbarer
+	+[exlex] unsichtbarer
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=unsichtbarer
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] unsichtbarer
+	+[moot/tag] ADJA
+	+[moot/lemma] unsichtbar
+Ferne
+	+[exlex] Ferne
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ferne
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ferne
+	+[moot/tag] NN
+	+[moot/lemma] Ferne
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wie
+	+[exlex] wie
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wie
+	+[moot/tag] PWAV
+	+[moot/lemma] wie
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+Gottheit
+	+[exlex] Gottheit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Gottheit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Gottheit
+	+[moot/tag] NN
+	+[moot/lemma] Gottheit
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+beglücken
+	+[exlex] beglücken
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=beglücken
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] beglücken
+	+[moot/tag] VVINF
+	+[moot/lemma] beglücken
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wie
+	+[exlex] wie
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wie
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wie
+	+[moot/tag] KOKOM
+	+[moot/lemma] wie
+diese
+	+[exlex] diese
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=diese
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] diese
+	+[moot/tag] PDS
+	+[moot/lemma] diese
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+meinem
+	+[exlex] meinem
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=meinem
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] meinem
+	+[moot/tag] PPOSAT
+	+[moot/lemma] meine
+Dank
+	+[exlex] Dank
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Dank
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Dank
+	+[moot/tag] NN
+	+[moot/lemma] Dank
+unerreichbar
+	+[exlex] unerreichbar
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=unerreichbar
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] unerreichbar
+	+[moot/tag] ADJD
+	+[moot/lemma] unerreichbar
+sind
+	+[exlex] sind
+	+[errid] 54741
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=sind
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] sind
+	+[moot/tag] VAFIN
+	+[moot/lemma] sein
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+In
+	+[exlex] In
+	+[errid] 60923
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=In
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] In
+	+[moot/tag] APPR
+	+[moot/lemma] in
+dieser
+	+[exlex] dieser
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=dieser
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] dieser
+	+[moot/tag] PDAT
+	+[moot/lemma] diese
+schönen
+	+[exlex] schönen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=schönen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] schönen
+	+[moot/tag] ADJA
+	+[moot/lemma] schön
+Zukunft
+	+[exlex] Zukunft
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Zukunft
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Zukunft
+	+[moot/tag] NN
+	+[moot/lemma] Zukunft
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+leben
+	+[exlex] leben
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=leben
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] leben
+	+[moot/tag] VVINF
+	+[moot/lemma] leben
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+mit
+	+[exlex] mit
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=mit
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] mit
+	+[moot/tag] APPR
+	+[moot/lemma] mit
+seinen
+	+[exlex] seinen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=seinen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] seinen
+	+[moot/tag] PPOSAT
+	+[moot/lemma] seine
+Wünschen
+	+[exlex] Wünschen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Wünschen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Wünschen
+	+[moot/tag] NN
+	+[moot/lemma] Wunsch
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+Träumen
+	+[exlex] Träumen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Träumen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Träumen
+	+[moot/tag] NN
+	+[moot/lemma] Traum
+diesem
+	+[exlex] diesem
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=diesem
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] diesem
+	+[moot/tag] PDAT
+	+[moot/lemma] diese
+Zeitpunkt
+	+[exlex] Zeitpunkt
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Zeitpunkt
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Zeitpunkt
+	+[moot/tag] NN
+	+[moot/lemma] Zeitpunkt
+voran
+	+[exlex] voran
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=voran
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] voran
+	+[moot/tag] ADV
+	+[moot/lemma] voran
+zu
+	+[exlex] zu
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=zu
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] zu
+	+[moot/tag] PTKZU
+	+[moot/lemma] zu
+eilen
+	+[exlex] eilen
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=eilen
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] eilen
+	+[moot/tag] VVFIN
+	+[moot/lemma] eilen
+,
+	+[exlex] ,
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=,
+	+[morph/safe] 1
+	+[moot/word] ,
+	+[moot/tag] $,
+	+[moot/lemma] ,
+wird
+	+[exlex] wird
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=wird
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] wird
+	+[moot/tag] VAFIN
+	+[moot/lemma] werden
+bis
+	+[exlex] bis
+	+[errid] ec
+	+[lang] de
+	+[lang] la
+	+[xlit] l1=1 lx=1 l1s=bis
+	+[hasmorph] 1
+	+[morph/lat] [_FM][lat] <0>
+	+[morph/safe] 1
+	+[moot/word] bis
+	+[moot/tag] KON
+	+[moot/lemma] bis
+dahin
+	+[exlex] dahin
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=dahin
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] dahin
+	+[moot/tag] PAV
+	+[moot/lemma] dahin
+die
+	+[exlex] die
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=die
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] die
+	+[moot/tag] ART
+	+[moot/lemma] d
+liebste
+	+[exlex] liebste
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=liebste
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] liebste
+	+[moot/tag] ADJA
+	+[moot/lemma] lieb
+Beschäftigung
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Beschäftigung
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Beschäftigung
+	+[moot/tag] NN
+	+[moot/lemma] Beschäftigung
+seyn
+	+[exlex] sein
+	+[errid] 167
+	+[xlit] l1=1 lx=1 l1s=seyn
+	+[morph/safe] 0
+	+[moot/word] sein
+	+[moot/tag] VAINF
+	+[moot/lemma] sein
+Ihres
+	+[exlex] Ihres
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Ihres
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Ihres
+	+[moot/tag] PPOSAT
+	+[moot/lemma] ihr
+tief
+	+[exlex] tief
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=tief
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] tief
+	+[moot/tag] ADJD
+	+[moot/lemma] tief
+verpflichteten
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=verpflichteten
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] verpflichteten
+	+[moot/tag] ADJA
+	+[moot/lemma] verpflichtet
+und
+	+[exlex] und
+	+[errid] 25124
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=und
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] und
+	+[moot/tag] KON
+	+[moot/lemma] und
+ewig
+	+[exlex] ewig
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=ewig
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] ewig
+	+[moot/tag] ADJD
+	+[moot/lemma] ewig
+dankbaren
+	+[exlex] dankbaren
+	+[errid] ec
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=dankbaren
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] dankbaren
+	+[moot/tag] ADJA
+	+[moot/lemma] dankbar
+Fridr
+	+[xlit] l1=1 lx=1 l1s=Fridr
+	+[morph/safe] 0
+	+[moot/word] Fridr
+	+[moot/tag] NN
+	+[moot/lemma] Fridr
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
+
+%% $s:lang=de
+Schiller
+	+[exlex] Schiller
+	+[pnd] 118607626
+	+[lang] de
+	+[xlit] l1=1 lx=1 l1s=Schiller
+	+[hasmorph] 1
+	+[morph/safe] 1
+	+[moot/word] Schiller
+	+[moot/tag] NE
+	+[moot/lemma] Schiller
+.
+	+[exlex] .
+	+[errid] ec
+	+[xlit] l1=1 lx=1 l1s=.
+	+[morph/safe] 1
+	+[moot/word] .
+	+[moot/tag] $.
+	+[moot/lemma] .
